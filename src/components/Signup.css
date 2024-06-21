@@ -1,0 +1,28 @@
+.SignUp{
+    text-align: center;
+  }
+  body {
+    overflow: hidden;
+  }
+  
+  .header1 {
+    position: relative;
+    height: 650px;
+    top: 95px;
+    background-color: #333;
+    background-image: url('p2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    clip-path: polygon(10% 100%, 100% 0, 100% 100%,0 100%);
+  }
+  
+  .container1 {
+    position: relative;
+    top: -174px;
+    left: 70px;
+    z-index: 1;
+  }
+  
+  .content {
+    padding: 50px;
+  }

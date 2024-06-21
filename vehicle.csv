@@ -1,0 +1,10 @@
+part_name,mean_life,usage_count,part_status
+engine,150000,120000,good -- 22.2
+transmission,200000,80000,warning  -- 14.8
+brakes,50000,45000,good -- 8.3
+battery,80000,70000,good -- 12.9
+radiator,100000,90000,warning -- 16.7
+suspension,120000,95000,good -- 17.5
+tires,60000,55000,warning -- 10.1
+
+5,45,000

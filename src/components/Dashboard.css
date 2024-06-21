@@ -1,0 +1,50 @@
+.myDetailsButton:hover {
+    border: 2px solid orangered;
+    box-shadow: 10px 10px 20px rgba(247, 149, 69, 0.5);
+}
+
+.myDetailsButton {
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.5);
+}
+
+.myLocatorButton {
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.5);
+}
+
+.myLocatorButton:hover {
+    border: 2px solid rgb(29, 180, 3);
+    box-shadow: 10px 10px 20px rgba(95, 249, 64, 0.5);
+}
+
+.myNotifyButton {
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.5);
+}
+
+.myNotifyButton:hover {
+    border: 3px solid rgb(3, 180, 165);
+    box-shadow: 10px 10px 20px rgba(62, 244, 235, 0.5);
+}
+
+.myHealthButton {
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.5);
+}
+
+.myHealthButton:hover {
+    border: 2px solid rgb(103, 3, 180);
+    box-shadow: 10px 10px 20px rgba(197, 69, 247, 0.5);
+}
+
+.myWeatherButton {
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0.2, 0.5);
+}
+
+.myWeatherButton:hover {
+    border: 2px solid rgb(235, 237, 237);
+    border: 2px solid rgb(180, 3, 100);
+    box-shadow: 10px 10px 20px rgba(247, 69, 179, 0.5);
+}
